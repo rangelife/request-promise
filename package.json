@@ -30,8 +30,8 @@
   },
   "dependencies": {
     "bluebird": "^3.3",
-    "lodash": "^4.6.1",
-    "request": "^2.34"
+    "browser-request": "^0.3.3",
+    "lodash": "^4.6.1"
   },
   "devDependencies": {
     "body-parser": "1.15.x",
